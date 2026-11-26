@@ -10,19 +10,19 @@
 <rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="url(#ol-bg)" stroke="#DDE1F5"/>
 <text x="36" y="52" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#9AA1C2" letter-spacing="1.5">GITHUB OVERVIEW</text>
 <rect x="36" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
-<text x="62" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">30</text>
+<text x="62" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">32</text>
 <text x="62" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Contributions</text>
 <text x="377" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="417" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
 <text x="443" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ol-accent)">2</text>
 <text x="443" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Current streak</text>
 <text x="759" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">days</text><rect x="799" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
-<text x="825" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ol-accent)">2</text>
+<text x="825" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ol-accent)">3</text>
 <text x="825" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Longest streak</text>
 <text x="1140" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">days</text><rect x="36" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
-<text x="62" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">24</text>
+<text x="62" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">25</text>
 <text x="62" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Commits</text>
 <text x="377" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="417" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
-<text x="443" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">5</text>
+<text x="443" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">6</text>
 <text x="443" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Active days</text>
 <text x="759" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="799" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
 <text x="825" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">5</text>
