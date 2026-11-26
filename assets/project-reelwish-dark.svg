@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="296" viewBox="0 0 1200 296" role="img" aria-label="ReelWish: Counts the Instagram reels you watch, locks Instagram at your daily limit, and lets a group of friends see each other's counts, with cheat detection.">
+<defs>
+  <linearGradient id="pdreelwish-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.55" stop-color="#4F6BFF"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="pdreelwish-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0A0B1A"/><stop offset="1" stop-color="#0F1030"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="295" rx="22" fill="#11132A" stroke="#23264A"/>
+<rect x="40" y="0" width="120" height="4" rx="2" fill="url(#pdreelwish-accent)"/>
+<text x="40" y="56" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#22D3EE" letter-spacing="1.5">ANDROID · DIGITAL WELLBEING</text>
+<text x="40" y="104" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" fill="#E8EAFF">ReelWish</text>
+<text x="1160" y="56" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5A6185">ReelWish ↗</text>
+<text x="40" y="150" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#8A93B2">Counts the Instagram reels you watch, locks Instagram at your daily limit, and</text><text x="40" y="186" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#8A93B2">lets a group of friends see each other's counts, with cheat detection.</text>
+<rect x="40" y="230" width="96" height="40" rx="20" fill="none" stroke="#23264A"/><text x="57" y="257" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8A93B2">Kotlin</text><rect x="148" y="230" width="173" height="40" rx="20" fill="none" stroke="#23264A"/><text x="165" y="257" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8A93B2">Accessibility</text><rect x="333" y="230" width="162" height="40" rx="20" fill="none" stroke="#23264A"/><text x="350" y="257" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8A93B2">Device admin</text><rect x="508" y="230" width="107" height="40" rx="20" fill="none" stroke="#23264A"/><text x="525" y="257" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8A93B2">Android</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+<defs>
+  <linearGradient id="dd-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.55" stop-color="#4F6BFF"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="dd-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0A0B1A"/><stop offset="1" stop-color="#0F1030"/>
+  </linearGradient>
+</defs>
+<defs><linearGradient id="dd-l" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset="0.5" stop-color="#4F6BFF"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<rect x="100" y="11.5" width="1000" height="1" fill="url(#dd-l)"/>
+<circle cx="600" cy="12" r="4" fill="#4F6BFF"><animate attributeName="cx" values="140;1060;140" dur="9s" repeatCount="indefinite"/></circle>
+</svg>

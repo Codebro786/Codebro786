@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="332" viewBox="0 0 1200 332" role="img" aria-label="BoloNyay: Describe a real problem in English or Hindi, by typing or speaking, and get the relevant Articles of the Constitution of India, explained simply, with sources.">
+<defs>
+  <linearGradient id="plbolonyay-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6D3FE0"/><stop offset="0.55" stop-color="#3B54E6"/><stop offset="1" stop-color="#0891B2"/>
+  </linearGradient>
+  <linearGradient id="plbolonyay-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F7F8FF"/><stop offset="1" stop-color="#ECEEFF"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="331" rx="22" fill="#FFFFFF" stroke="#DDE1F5"/>
+<rect x="40" y="0" width="120" height="4" rx="2" fill="url(#plbolonyay-accent)"/>
+<text x="40" y="56" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#0891B2" letter-spacing="1.5">AI · LEGAL RIGHTS (LIVE)</text>
+<text x="40" y="104" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" fill="#12142B">BoloNyay</text>
+<text x="1160" y="56" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#9AA1C2">bolonyay ↗</text>
+<text x="40" y="150" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5B6385">Describe a real problem in English or Hindi, by typing or speaking, and get</text><text x="40" y="186" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5B6385">the relevant Articles of the Constitution of India, explained simply, with</text><text x="40" y="222" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5B6385">sources.</text>
+<rect x="40" y="266" width="96" height="40" rx="20" fill="none" stroke="#DDE1F5"/><text x="57" y="293" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5B6385">Python</text><rect x="148" y="266" width="129" height="40" rx="20" fill="none" stroke="#DDE1F5"/><text x="165" y="293" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5B6385">LangGraph</text><rect x="289" y="266" width="63" height="40" rx="20" fill="none" stroke="#DDE1F5"/><text x="306" y="293" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5B6385">RAG</text><rect x="364" y="266" width="96" height="40" rx="20" fill="none" stroke="#DDE1F5"/><text x="381" y="293" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5B6385">Chroma</text><rect x="472" y="266" width="129" height="40" rx="20" fill="none" stroke="#DDE1F5"/><text x="489" y="293" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5B6385">Streamlit</text>
+</svg>

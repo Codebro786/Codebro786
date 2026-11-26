@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="GitHub overview">
+<defs>
+  <linearGradient id="ol-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6D3FE0"/><stop offset="0.55" stop-color="#3B54E6"/><stop offset="1" stop-color="#0891B2"/>
+  </linearGradient>
+  <linearGradient id="ol-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F7F8FF"/><stop offset="1" stop-color="#ECEEFF"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="url(#ol-bg)" stroke="#DDE1F5"/>
+<text x="36" y="52" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#9AA1C2" letter-spacing="1.5">GITHUB OVERVIEW</text>
+<rect x="36" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="62" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">30</text>
+<text x="62" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Contributions</text>
+<text x="377" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="417" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="443" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ol-accent)">2</text>
+<text x="443" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Current streak</text>
+<text x="759" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">days</text><rect x="799" y="76" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="825" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ol-accent)">2</text>
+<text x="825" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Longest streak</text>
+<text x="1140" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">days</text><rect x="36" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="62" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">24</text>
+<text x="62" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Commits</text>
+<text x="377" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="417" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="443" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">5</text>
+<text x="443" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Active days</text>
+<text x="759" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">last 12 months</text><rect x="799" y="228" width="365" height="136" rx="16" fill="#FFFFFF" stroke="#DDE1F5"/>
+<text x="825" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#12142B">5</text>
+<text x="825" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#12142B">Public projects</text>
+<text x="1140" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">since Nov 2024</text><text x="1164" y="52" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#9AA1C2">updated 26 Nov 2026</text>
+</svg>

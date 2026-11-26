@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Samit, Android App Developer">
+<defs>
+  <linearGradient id="hd-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.55" stop-color="#4F6BFF"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="hd-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0A0B1A"/><stop offset="1" stop-color="#0F1030"/>
+  </linearGradient>
+</defs>
+<defs>
+  <radialGradient id="hd-orb" cx="0.4" cy="0.35" r="0.7">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.95"/><stop offset="0.45" stop-color="#4F6BFF" stop-opacity="0.8"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0.15"/>
+  </radialGradient>
+  <radialGradient id="hd-glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#4F6BFF" stop-opacity="0.35"/><stop offset="1" stop-color="#4F6BFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="hd-fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0A0B1A" stop-opacity="1"/><stop offset="0.5" stop-color="#0A0B1A" stop-opacity="0.2"/><stop offset="1" stop-color="#0A0B1A" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="hd-card"><rect width="1200" height="400" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#hd-card)">
+  <rect width="1200" height="400" fill="url(#hd-bg)"/>
+  <g stroke="#1A1D3D" stroke-width="1" opacity="0.7"><line x1="0" y1="0" x2="0" y2="400"/><line x1="40" y1="0" x2="40" y2="400"/><line x1="80" y1="0" x2="80" y2="400"/><line x1="120" y1="0" x2="120" y2="400"/><line x1="160" y1="0" x2="160" y2="400"/><line x1="200" y1="0" x2="200" y2="400"/><line x1="240" y1="0" x2="240" y2="400"/><line x1="280" y1="0" x2="280" y2="400"/><line x1="320" y1="0" x2="320" y2="400"/><line x1="360" y1="0" x2="360" y2="400"/><line x1="400" y1="0" x2="400" y2="400"/><line x1="440" y1="0" x2="440" y2="400"/><line x1="480" y1="0" x2="480" y2="400"/><line x1="520" y1="0" x2="520" y2="400"/><line x1="560" y1="0" x2="560" y2="400"/><line x1="600" y1="0" x2="600" y2="400"/><line x1="640" y1="0" x2="640" y2="400"/><line x1="680" y1="0" x2="680" y2="400"/><line x1="720" y1="0" x2="720" y2="400"/><line x1="760" y1="0" x2="760" y2="400"/><line x1="800" y1="0" x2="800" y2="400"/><line x1="840" y1="0" x2="840" y2="400"/><line x1="880" y1="0" x2="880" y2="400"/><line x1="920" y1="0" x2="920" y2="400"/><line x1="960" y1="0" x2="960" y2="400"/><line x1="1000" y1="0" x2="1000" y2="400"/><line x1="1040" y1="0" x2="1040" y2="400"/><line x1="1080" y1="0" x2="1080" y2="400"/><line x1="1120" y1="0" x2="1120" y2="400"/><line x1="1160" y1="0" x2="1160" y2="400"/><line x1="1200" y1="0" x2="1200" y2="400"/><line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="40" x2="1200" y2="40"/><line x1="0" y1="80" x2="1200" y2="80"/><line x1="0" y1="120" x2="1200" y2="120"/><line x1="0" y1="160" x2="1200" y2="160"/><line x1="0" y1="200" x2="1200" y2="200"/><line x1="0" y1="240" x2="1200" y2="240"/><line x1="0" y1="280" x2="1200" y2="280"/><line x1="0" y1="320" x2="1200" y2="320"/><line x1="0" y1="360" x2="1200" y2="360"/><line x1="0" y1="400" x2="1200" y2="400"/></g>
+  <rect width="744" height="400" fill="url(#hd-fade)"/>
+  <rect x="0" y="-40" width="1200" height="40" fill="url(#hd-accent)" opacity="0.06">
+    <animate attributeName="y" values="-40;400;400" keyTimes="0;0.6;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <!-- orb -->
+  <circle cx="1030" cy="200" r="170" fill="url(#hd-glow)"/>
+  <circle cx="1030" cy="200" r="112" fill="none" stroke="#23264A" stroke-width="1.2"/>
+  <circle cx="1030" cy="200" r="146" fill="none" stroke="#23264A" stroke-width="1" stroke-dasharray="3 9"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 1030 200" to="360 1030 200" dur="16s" repeatCount="indefinite"/>
+    <circle cx="1142" cy="200" r="5" fill="#22D3EE"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 1030 200" to="0 1030 200" dur="26s" repeatCount="indefinite"/>
+    <circle cx="1030" cy="54" r="3.5" fill="#8B5CF6"/>
+  </g>
+  <circle cx="1030" cy="200" r="62" fill="url(#hd-orb)">
+    <animate attributeName="r" values="58;66;58" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="200" r="62" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="62;120" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- voice bars inside the orb -->
+  <rect x="1004" y="196" width="5" height="8" rx="2.5" fill="#11132A" opacity="0.85">
+    <animate attributeName="height" values="8;18;8" dur="1.10s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="196;191.0;196" dur="1.10s" repeatCount="indefinite"/>
+  </rect><rect x="1015" y="196" width="5" height="8" rx="2.5" fill="#11132A" opacity="0.85">
+    <animate attributeName="height" values="8;30;8" dur="1.23s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="196;185.0;196" dur="1.23s" repeatCount="indefinite"/>
+  </rect><rect x="1026" y="196" width="5" height="8" rx="2.5" fill="#11132A" opacity="0.85">
+    <animate attributeName="height" values="8;40;8" dur="1.36s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="196;180.0;196" dur="1.36s" repeatCount="indefinite"/>
+  </rect><rect x="1037" y="196" width="5" height="8" rx="2.5" fill="#11132A" opacity="0.85">
+    <animate attributeName="height" values="8;26;8" dur="1.49s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="196;187.0;196" dur="1.49s" repeatCount="indefinite"/>
+  </rect><rect x="1048" y="196" width="5" height="8" rx="2.5" fill="#11132A" opacity="0.85">
+    <animate attributeName="height" values="8;14;8" dur="1.62s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="196;193.0;196" dur="1.62s" repeatCount="indefinite"/>
+  </rect>
+  <!-- text -->
+  <text x="70" y="96" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="23" fill="#5A6185"><tspan fill="#22D3EE">~</tspan>/samit <tspan fill="#8B5CF6">$</tspan> whoami</text>
+  <text x="64" y="198" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-2" fill="url(#hd-accent)">Samit</text>
+  <text x="70" y="252" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="500" fill="#E8EAFF">Android App Developer</text>
+  
+  <clipPath id="hd-c0"><rect x="70" y="282" height="48" width="0">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.0889;0.2222;0.25;1" values="0.0;620.0;620.0;0.0;0.0"/>
+  </rect></clipPath>
+  <g clip-path="url(#hd-c0)"><text x="72" y="318" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="31" fill="#8A93B2" textLength="616" lengthAdjust="spacingAndGlyphs">Building Sami, a Hinglish assistant</text></g>
+  <rect y="290" width="14" height="36" rx="2" fill="#22D3EE" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.0889;0.2222;0.25;1" values="70.0;690.0;690.0;70.0;70.0"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.0889;0.2222;0.25;1" values="1;1;1;0;0" calcMode="discrete"/>
+  </rect>
+  <clipPath id="hd-c1"><rect x="70" y="282" height="48" width="0">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.25;0.3389;0.4722;0.5;1" values="0.0;0.0;620.0;620.0;0.0;0.0"/>
+  </rect></clipPath>
+  <g clip-path="url(#hd-c1)"><text x="72" y="318" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="31" fill="#8A93B2" textLength="616" lengthAdjust="spacingAndGlyphs">Kotlin · Compose · on-device speech</text></g>
+  <rect y="290" width="14" height="36" rx="2" fill="#22D3EE" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.25;0.3389;0.4722;0.5;1" values="70.0;70.0;690.0;690.0;70.0;70.0"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.25;0.3389;0.4722;0.5;1" values="0;1;1;1;0;0" calcMode="discrete"/>
+  </rect>
+  <clipPath id="hd-c2"><rect x="70" y="282" height="48" width="0">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.5;0.5889;0.7222;0.75;1" values="0.0;0.0;584.8;584.8;0.0;0.0"/>
+  </rect></clipPath>
+  <g clip-path="url(#hd-c2)"><text x="72" y="318" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="31" fill="#8A93B2" textLength="581" lengthAdjust="spacingAndGlyphs">BoloNyay: AI that explains rights</text></g>
+  <rect y="290" width="14" height="36" rx="2" fill="#22D3EE" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.5;0.5889;0.7222;0.75;1" values="70.0;70.0;654.8;654.8;70.0;70.0"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.5;0.5889;0.7222;0.75;1" values="0;1;1;1;0;0" calcMode="discrete"/>
+  </rect>
+  <clipPath id="hd-c3"><rect x="70" y="282" height="48" width="0">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.75;0.8389;0.9722;1.0" values="0.0;0.0;567.2;567.2;0.0"/>
+  </rect></clipPath>
+  <g clip-path="url(#hd-c3)"><text x="72" y="318" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="31" fill="#8A93B2" textLength="563" lengthAdjust="spacingAndGlyphs">ReelWish: reels on a daily limit</text></g>
+  <rect y="290" width="14" height="36" rx="2" fill="#22D3EE" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.75;0.8389;0.9722;1.0" values="70.0;70.0;637.2;637.2;70.0"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" keyTimes="0;0.75;0.8389;0.9722;1.0" values="0;1;1;1;0" calcMode="discrete"/>
+  </rect>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="22" fill="none" stroke="#23264A"/>
+</g>
+</svg>
