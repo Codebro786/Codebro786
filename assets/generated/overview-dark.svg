@@ -10,7 +10,7 @@
 <rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="url(#od-bg)" stroke="#23264A"/>
 <text x="36" y="52" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#5A6185" letter-spacing="1.5">GITHUB OVERVIEW</text>
 <rect x="36" y="76" width="365" height="136" rx="16" fill="#11132A" stroke="#23264A"/>
-<text x="62" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">32</text>
+<text x="62" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">20</text>
 <text x="62" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#E8EAFF">Contributions</text>
 <text x="377" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">last 12 months</text><rect x="417" y="76" width="365" height="136" rx="16" fill="#11132A" stroke="#23264A"/>
 <text x="443" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#od-accent)">2</text>
@@ -19,13 +19,13 @@
 <text x="825" y="146" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#od-accent)">3</text>
 <text x="825" y="180" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#E8EAFF">Longest streak</text>
 <text x="1140" y="180" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">days</text><rect x="36" y="228" width="365" height="136" rx="16" fill="#11132A" stroke="#23264A"/>
-<text x="62" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">25</text>
+<text x="62" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">15</text>
 <text x="62" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#E8EAFF">Commits</text>
 <text x="377" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">last 12 months</text><rect x="417" y="228" width="365" height="136" rx="16" fill="#11132A" stroke="#23264A"/>
-<text x="443" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">6</text>
+<text x="443" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">5</text>
 <text x="443" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#E8EAFF">Active days</text>
 <text x="759" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">last 12 months</text><rect x="799" y="228" width="365" height="136" rx="16" fill="#11132A" stroke="#23264A"/>
-<text x="825" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">5</text>
+<text x="825" y="298" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#E8EAFF">4</text>
 <text x="825" y="332" font-family="'Segoe UI', 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#E8EAFF">Public projects</text>
-<text x="1140" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">since Nov 2024</text><text x="1164" y="52" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">updated 26 Nov 2026</text>
+<text x="1140" y="332" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">since Nov 2024</text><text x="1164" y="52" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5A6185">updated 27 Nov 2026</text>
 </svg>
